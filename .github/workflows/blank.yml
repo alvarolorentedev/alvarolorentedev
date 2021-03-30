@@ -13,3 +13,5 @@ jobs:
           repositories: 200                
           repositories_forks: no           
           repositories_affiliations: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
