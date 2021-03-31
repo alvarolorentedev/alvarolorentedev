@@ -12,7 +12,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           repositories: 200                
           repositories_forks: yes           
-          repositories_affiliations: organization_member
+          repositories_affiliations: collaborator
           plugin_languages: yes
           plugin_languages_ignored: html, css 
           plugin_languages_details: bytes-size, percentage
