@@ -1,4 +1,4 @@
-<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;"> 
   <tbody>
   <tr style="border: none;">
     <td width="400px" style="border: none; vertical-align: top;">
