@@ -122,13 +122,38 @@ jobs:
      - name: plugin posts
        uses: lowlighter/metrics@latest
        with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: NOT_NEEDED
           base: ""
-          repositories: 200           
-          repositories_affiliations: owner, collaborator
           config_timezone: Europe/Madrid
           filename: posts.svg
           use_prebuilt_image: yes                             
           plugin_posts: yes
+          plugin_posts_covers: yes
+          plugin_posts_descriptions: yes
           plugin_posts_source: dev.to
           plugin_people_user: .github.user
+     - name: plugin stargazers chart
+       uses: lowlighter/metrics@latest
+       with:
+         filename: stargazers.svg
+         token: ${{ secrets.METRICS_TOKEN }}
+         base: ""
+         plugin_stargazers: yes
+         plugin_stargazers_charts_type: graph
+     - name: plugin Sponsors Goal
+       uses: lowlighter/metrics@latest
+       with:
+         filename: sponsors.svg
+         token: ${{ secrets.METRICS_TOKEN }}
+         base: ""
+         plugin_sponsors: yes
+         plugin_sponsors_sections: goal, list
+         plugin_sponsors_past: yes
+     - name: plugin followers
+       uses: lowlighter/metrics@latest
+       with:
+         filename: followers.svg
+         token: ${{ secrets.METRICS_TOKEN }}
+         base: ""
+         plugin_people: yes
+         plugin_people_types: followers
