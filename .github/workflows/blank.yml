@@ -38,20 +38,20 @@ jobs:
           filename: repositories.svg
           use_prebuilt_image: yes
           plugin_lines: yes
-     - name: plugin languages
-       uses: lowlighter/metrics@latest
-       with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          repositories: 200           
-          repositories_affiliations: owner, collaborator
-          config_timezone: Europe/Madrid
-          filename: languages.svg
-          use_prebuilt_image: yes
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_ignored: html, css 
-          plugin_languages_details: percentage
+#     - name: plugin languages
+#       uses: lowlighter/metrics@latest
+#       with:
+#          token: ${{ secrets.METRICS_TOKEN }}
+#          base: ""
+#          repositories: 200           
+#          repositories_affiliations: owner, collaborator
+#          config_timezone: Europe/Madrid
+#          filename: languages.svg
+#          use_prebuilt_image: yes
+#          plugin_languages: yes
+#          plugin_languages_indepth: yes
+#          plugin_languages_ignored: html, css 
+#          plugin_languages_details: percentage
      - name: plugin reactions
        uses: lowlighter/metrics@latest
        with:
@@ -108,7 +108,7 @@ jobs:
      - name: plugin stackoverflow
        uses: lowlighter/metrics@latest
        with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: NOT_NEEDED
           base: ""
           repositories: 200           
           repositories_affiliations: owner, collaborator
@@ -141,20 +141,13 @@ jobs:
          base: ""
          plugin_stargazers: yes
          plugin_stargazers_charts_type: graph
-     - name: plugin Sponsors Goal
-       uses: lowlighter/metrics@latest
-       with:
-         filename: sponsors.svg
-         token: ${{ secrets.METRICS_TOKEN }}
-         base: ""
-         plugin_sponsors: yes
-         plugin_sponsors_sections: goal, list
-         plugin_sponsors_past: yes
-     - name: plugin followers
-       uses: lowlighter/metrics@latest
-       with:
-         filename: followers.svg
-         token: ${{ secrets.METRICS_TOKEN }}
-         base: ""
-         plugin_people: yes
-         plugin_people_types: followers
+         plugin_stargazers_days: 0
+#     - name: plugin Sponsors Goal
+#       uses: lowlighter/metrics@latest
+#       with:
+#         filename: sponsors.svg
+#         token: ${{ secrets.METRICS_TOKEN }}
+#         base: ""
+#         plugin_sponsors: yes
+#         plugin_sponsors_sections: goal, list
+#         plugin_sponsors_past: yes
