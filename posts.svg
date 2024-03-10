@@ -28,6 +28,21 @@
                                 </svg>
                                 <div class="infos">
                                     <div class="left">
+                                        <div class="date">7 Mar 2024</div>
+                                        <div class="cover" style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==);"></div>
+                                    </div>
+                                    <div class="right">
+                                        <div class="title">Beyond Coding: The Cost of Software Development</div>
+                                        <div class="description">Beyond Code: the cost of software development   In 2024, Software has become the backbone of...</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="field post largeable-width-half">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill-rule="evenodd" d="M4.75 0a.75.75 0 01.75.75V2h5V.75a.75.75 0 011.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 014.75 0zm0 3.5h8.5a.25.25 0 01.25.25V6h-11V3.75a.25.25 0 01.25-.25h2zm-2.25 4v6.75c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V7.5h-11z"/>
+                                </svg>
+                                <div class="infos">
+                                    <div class="left">
                                         <div class="date">29 Feb 2024</div>
                                         <div class="cover" style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==);"></div>
                                     </div>
@@ -64,21 +79,6 @@
                                     <div class="right">
                                         <div class="title">Leaders Build Trust, Managers Take Control: The Path to Empowering Teams</div>
                                         <div class="description">Are leaders and managers important for organizational success?</div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="field post largeable-width-half">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill-rule="evenodd" d="M4.75 0a.75.75 0 01.75.75V2h5V.75a.75.75 0 011.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 014.75 0zm0 3.5h8.5a.25.25 0 01.25.25V6h-11V3.75a.25.25 0 01.25-.25h2zm-2.25 4v6.75c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V7.5h-11z"/>
-                                </svg>
-                                <div class="infos">
-                                    <div class="left">
-                                        <div class="date">1 Jul 2023</div>
-                                        <div class="cover" style="background-image: url(data:image/jpg;base64,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);"></div>
-                                    </div>
-                                    <div class="right">
-                                        <div class="title">Replace Docker Desktop with Podman in OSX</div>
-                                        <div class="description">a how to tutorial migrate from docker desktop to podman in OSX</div>
                                     </div>
                                 </div>
                             </div>
