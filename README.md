@@ -15,9 +15,12 @@ I build products, tools and experiments around AI, developer tooling, platform e
 
 ## 🚧 Current experiments
 
-### 📱 OpenCode Mobile
+### 📱 OpenCode Mobile 
 
 Agentic coding from your phone.
+
+[![Get it on Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-4285F4?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/apps/testing/app.getopencode)
+[![Download APK](https://img.shields.io/badge/Download-APK-18A748?style=for-the-badge&logo=android&logoColor=white)](https://github.com/alvarolorentedev/opencode-mobile/releases/latest/download/opencode-mobile.apk)
 
 ### 🦉 Owlumi
 
