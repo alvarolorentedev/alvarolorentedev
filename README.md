@@ -26,6 +26,10 @@ Agentic coding from your phone.
 
 AI storytelling for kids.
 
+[![Get it on Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-4285F4?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/apps/testing/com.playowlumi)
+[![Download ABB](https://img.shields.io/badge/Download-ABB-18A748?style=for-the-badge&logo=android&logoColor=white)](https://drive.proton.me/urls/JHXGR8M5V4#S6PXBzbApxZ8)
+
+
 ### 🐻 PwnedPackages
 
 Supply-chain security for package ecosystems.
