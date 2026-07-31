@@ -1,51 +1,87 @@
 # 👋 Hi, I'm Alvaro
 
-🚀 **Technical entrepreneur. Engineering leader. AI builder.**
+🚀 **Technical founder. Engineering leader. AI builder.**
 
-I build products, tools and experiments around AI, developer tooling, platform engineering and security.
+I build and launch products at the intersection of **AI, developer tooling, platform engineering, security and decision intelligence**.
 
-## 🧠 What I build
+My approach is simple: turn ambitious ideas into working software, release early, test them with real users and share what I learn along the way.
 
-- 🤖 AI-native developer tools
-- 🧰 Agents and local LLM workflows
-- 🛠️ Developer productivity tools
-- 🔐 Platform and security engineering
-- 🚀 Indie products and SaaS experiments
-- ✍️ Engineering leadership content
+## 🚀 Featured products
 
-## 🚧 Current experiments
+### 📱 OpenCode Mobile
 
-### 📱 OpenCode Mobile 
+**Agentic coding from your phone.**
 
-Agentic coding from your phone.
+A mobile client for following, controlling and continuing OpenCode sessions away from your desk.
 
-[![Get it on Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-4285F4?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/apps/testing/app.getopencode)
-[![Download APK](https://img.shields.io/badge/Download-APK-18A748?style=for-the-badge&logo=android&logoColor=white)](https://github.com/alvarolorentedev/opencode-mobile/releases/latest/download/opencode-mobile.apk)
+[![Get it on Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-4285F4?style=for-the-badge\&logo=googleplay\&logoColor=white)](https://play.google.com/apps/testing/app.getopencode)
+[![Download APK](https://img.shields.io/badge/Download-APK-18A748?style=for-the-badge\&logo=android\&logoColor=white)](https://github.com/alvarolorentedev/opencode-mobile/releases/latest/download/opencode-mobile.apk)
+
+### 🐙 OctoLaunch
+
+**Understand production issues and find their root cause faster.**
+
+A DevOps intelligence platform that connects deployments, CI/CD activity, incidents and production signals into a shared investigation context.
+
+[Explore OctoLaunch →](https://octolaunch.com)
+
+### 🔮 Simulmarkt
+
+**Test market decisions before committing real time and money.**
+
+An AI-powered decision-intelligence platform that helps companies validate products, pricing, positioning, messaging and market opportunities using simulated audiences.
+
+[Explore Simulmarkt →](https://simulmarkt.com)
+
+### 🎵 VFXBeat
+
+**Turn music into audio-reactive videos.**
+
+A local-first creative tool for generating music videos with synchronized visual effects, lyrics and social-ready formats.
+
+[Open VFXBeat →](https://vfxbeat.com)
 
 ### 🦉 Owlumi
 
-AI storytelling for kids.
+**AI storytelling for kids.**
 
-[![Get it on Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-4285F4?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/apps/testing/com.playowlumi)
-[![Download ABB](https://img.shields.io/badge/Download-ABB-18A748?style=for-the-badge&logo=android&logoColor=white)](https://drive.proton.me/urls/JHXGR8M5V4#S6PXBzbApxZ8)
+A creative experience for generating personalized stories and imaginative adventures for children and families.
 
+[![Get it on Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-4285F4?style=for-the-badge\&logo=googleplay\&logoColor=white)](https://play.google.com/apps/testing/com.playowlumi)
+[![Download ABB](https://img.shields.io/badge/Download-ABB-18A748?style=for-the-badge\&logo=android\&logoColor=white)](https://drive.proton.me/urls/JHXGR8M5V4#S6PXBzbApxZ8)
 
 ### 🐻 PwnedPackages
 
-Supply-chain security for package ecosystems.
+**Supply-chain security for package ecosystems.**
 
-### 🧪 Local AI experiments
+Tools and experiments for identifying risky, compromised or malicious software dependencies before they reach production.
 
-Agents, workflows, models and strange prototypes.
+[Open PwnedPackages →](https://pwnedpackages.com/)
 
-## 📡 Follow me for
+## 🧠 What I build
 
-- ⚡ Real product experiments
-- 🧰 AI developer tooling
-- 🧠 Local-first AI workflows
-- 🔐 Platform and security engineering
-- 🔥 Honest lessons from building in public
+* 🤖 AI-native products and developer tools
+* 🧰 Agents and local LLM workflows
+* 🛠️ Developer productivity and automation
+* ☁️ DevOps and platform engineering tools
+* 🔐 Application and supply-chain security
+* 📊 Decision-intelligence products
+* 🚀 Indie products and SaaS experiments
 
-> 🚀 Building technical products. Testing ideas in public. Sharing the lessons.
+## 📡 Building in public
 
-> ps. all my legacy projects are in https://github.com/archivealvarolorentedev.
+I share the practical side of building technical products:
+
+* ⚡ Turning ideas into working software
+* 🧠 Designing AI agents and local-first workflows
+* 🧰 Building developer and platform tools
+* 🔐 Engineering secure systems
+* 📈 Making product and technical trade-offs
+* 🔥 Sharing failures, iterations and honest lessons
+
+> Build something useful. Release it. Learn from reality. Repeat.
+
+## 🗃️ Previous work
+
+My legacy and archived projects are available at
+[github.com/archivealvarolorentedev](https://github.com/archivealvarolorentedev).
