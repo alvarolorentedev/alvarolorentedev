@@ -14,7 +14,7 @@ My approach is simple: turn ambitious ideas into working software, release early
 
 A mobile client for following, controlling and continuing OpenCode sessions away from your desk.
 
-[![Get it on Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-4285F4?style=for-the-badge\&logo=googleplay\&logoColor=white)](https://play.google.com/apps/testing/app.getopencode)
+[![Get it on Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-4285F4?style=for-the-badge\&logo=googleplay\&logoColor=white)](https://play.google.com/store/apps/details?id=app.getopencode)
 [![TestFlight](https://img.shields.io/badge/Join_Beta-TestFlight-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://testflight.apple.com/join/ddcE5Wzz)
 [![Download APK](https://img.shields.io/badge/Download-APK-18A748?style=for-the-badge\&logo=android\&logoColor=white)](https://github.com/alvarolorentedev/opencode-mobile/releases/latest/download/opencode-mobile.apk)
 
