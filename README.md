@@ -44,15 +44,6 @@ A local-first creative tool for generating music videos with synchronized visual
 
 [Open VFXBeat →](https://vfxbeat.com)
 
-### 🦉 Owlumi
-
-**AI storytelling for kids.**
-
-A creative experience for generating personalized stories and imaginative adventures for children and families.
-
-[![Get it on Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-4285F4?style=for-the-badge\&logo=googleplay\&logoColor=white)](https://play.google.com/apps/testing/com.playowlumi)
-[![Download ABB](https://img.shields.io/badge/Download-ABB-18A748?style=for-the-badge\&logo=android\&logoColor=white)](https://drive.proton.me/urls/JHXGR8M5V4#S6PXBzbApxZ8)
-
 ### 🐻 PwnedPackages
 
 **Supply-chain security for package ecosystems.**
