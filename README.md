@@ -59,8 +59,6 @@ If you find something useful:
 
 Every star helps other developers discover these projects. It genuinely makes a difference.
 
-[![Follow on GitHub](https://img.shields.io/github/followers/alvarolorentedev?label=Follow%20Alvaro&style=for-the-badge)](https://github.com/alvarolorentedev?tab=followers)
-
 🌐 [alvarolorente.dev](https://alvarolorente.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/alvarolorentedev/)
 
 > Build useful things. Share them. Make developers' lives a little easier.
