@@ -1,81 +1,74 @@
-# 👋 Hi, I'm Alvaro
+# Hey, I'm Alvaro 👋
 
-🚀 **Technical founder. Engineering leader. AI builder.**
+**I build tools for developers working with AI.**
 
-I build and launch products at the intersection of **AI, developer tooling, platform engineering, security and decision intelligence**.
+Engineering leader by experience, indie builder by choice. I'm interested in AI agents, developer tooling and making software development more productive.
 
-My approach is simple: turn ambitious ideas into working software, release early, test them with real users and share what I learn along the way.
+I build things, ship them, break them, improve them and share what I learn.
 
-## 🚀 Featured products
+[![Follow me](https://img.shields.io/github/followers/alvarolorentedev?label=Follow%20me&style=social)](https://github.com/alvarolorentedev)
+
+---
+
+## 🚀 What I'm building
 
 ### 📱 OpenCode Mobile
 
-**Agentic coding from your phone.**
+**Your AI coding workflow. In your pocket.**
 
-A mobile client for following, controlling and continuing OpenCode sessions away from your desk.
+Control your OpenCode sessions from Android and iOS. Start tasks, follow agent progress, review changes and keep your development moving wherever you are.
 
-[![Get it on Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-4285F4?style=for-the-badge\&logo=googleplay\&logoColor=white)](https://play.google.com/store/apps/details?id=app.getopencode)
-[![TestFlight](https://img.shields.io/badge/Join_Beta-TestFlight-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://testflight.apple.com/join/ddcE5Wzz)
-[![Download APK](https://img.shields.io/badge/Download-APK-18A748?style=for-the-badge\&logo=android\&logoColor=white)](https://github.com/alvarolorentedev/opencode-mobile/releases/latest/download/opencode-mobile.apk)
+[![GitHub stars](https://img.shields.io/github/stars/alvarolorentedev/opencode-mobile?style=social)](https://github.com/alvarolorentedev/opencode-mobile)
 
-[Explore OpenCode Mobile →](https://getopencode.app)
+[Google Play](https://play.google.com/store/apps/details?id=app.getopencode) · [iOS TestFlight](https://testflight.apple.com/join/ddcE5Wzz) · [Website](https://getopencode.app) · [GitHub](https://github.com/alvarolorentedev/opencode-mobile)
 
-### 🐙 OctoLaunch
 
-**Understand production issues and find their root cause faster.**
+### 🔀 OpenCode Flowgraph
 
-A DevOps intelligence platform that connects deployments, CI/CD activity, incidents and production signals into a shared investigation context.
+**Turn AI agents into repeatable engineering workflows.**
 
-[Explore OctoLaunch →](https://octolaunch.com)
+Define how your agents plan, build, review and ship software using YAML workflows. Add quality gates, human approvals and parallel execution. Make your development process reproducible.
 
-### 🔮 Simulmarkt
+[![GitHub stars](https://img.shields.io/github/stars/alvarolorentedev/opencode-flowgraph?style=social)](https://github.com/alvarolorentedev/opencode-flowgraph)
 
-**Test market decisions before committing real time and money.**
+[GitHub](https://github.com/alvarolorentedev/opencode-flowgraph) · [npm](https://www.npmjs.com/package/@alvarolorentedev/opencode-flowgraph)
 
-An AI-powered decision-intelligence platform that helps companies validate products, pricing, positioning, messaging and market opportunities using simulated audiences.
+### 🌐 OpenCode CloudLink
 
-[Explore Simulmarkt →](https://simulmarkt.com)
+**Your projects. Accessible anywhere.**
 
-### 🎵 VFXBeat
+Create secure tunnels to share live demos with clients, teammates or the world. Give developers and small consultancies a simple way to showcase their work and use AI agents to make changes.
 
-**Turn music into audio-reactive videos.**
+[Website](https://opencodecloud.link/) · [GitHub Releases](https://github.com/alvarolorentedev/opencode-cloud-link-releases)
 
-A local-first creative tool for generating music videos with synchronized visual effects, lyrics and social-ready formats.
+---
 
-[Open VFXBeat →](https://vfxbeat.com)
+## 🧠 What I care about
 
-### 🐻 PwnedPackages
+- 🤖 AI agents and agentic software development
+- 🛠️ Developer experience and productivity
+- ☁️ Platform engineering and infrastructure
+- 🔐 Security and reliable systems
+- 🧪 Building products and experimenting with ideas
 
-**Supply-chain security for package ecosystems.**
+15+ years in software engineering, platform engineering and cybersecurity. Currently working in Data & AI, bringing production engineering experience into the next generation of software.
 
-Tools and experiments for identifying risky, compromised or malicious software dependencies before they reach production.
+---
 
-[Open PwnedPackages →](https://pwnedpackages.com/)
+## ⭐ Support my work
 
-## 🧠 What I build
+I'm building these projects independently and sharing them with the community.
 
-* 🤖 AI-native products and developer tools
-* 🧰 Agents and local LLM workflows
-* 🛠️ Developer productivity and automation
-* ☁️ DevOps and platform engineering tools
-* 🔐 Application and supply-chain security
-* 📊 Decision-intelligence products
-* 🚀 Indie products and SaaS experiments
+If you find something useful:
 
-## 📡 Building in public
+1. ⭐ Star the repository.
+2. 👀 Follow me for new projects and updates.
+3. 💬 Open an issue, share feedback or contribute.
 
-I share the practical side of building technical products:
+Every star helps other developers discover these projects. It genuinely makes a difference.
 
-* ⚡ Turning ideas into working software
-* 🧠 Designing AI agents and local-first workflows
-* 🧰 Building developer and platform tools
-* 🔐 Engineering secure systems
-* 📈 Making product and technical trade-offs
-* 🔥 Sharing failures, iterations and honest lessons
+[![Follow on GitHub](https://img.shields.io/github/followers/alvarolorentedev?label=Follow%20Alvaro&style=for-the-badge)](https://github.com/alvarolorentedev?tab=followers)
 
-> Build something useful. Release it. Learn from reality. Repeat.
+🌐 [alvarolorente.dev](https://alvarolorente.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/alvarolorentedev/)
 
-## 🗃️ Previous work
-
-My legacy and archived projects are available at
-[github.com/archivealvarolorentedev](https://github.com/archivealvarolorentedev).
+> Build useful things. Share them. Make developers' lives a little easier.
