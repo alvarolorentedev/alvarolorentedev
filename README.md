@@ -8,8 +8,6 @@ I build things, ship them, break them, improve them and share what I learn.
 
 [![Follow me](https://img.shields.io/github/followers/alvarolorentedev?label=Follow%20me&style=social)](https://github.com/alvarolorentedev)
 
----
-
 ## 🚀 What I'm building
 
 ### 📱 OpenCode Mobile
@@ -41,8 +39,6 @@ Create secure tunnels to share live demos with clients, teammates or the world. 
 
 [Website](https://opencodecloud.link/) · [GitHub Releases](https://github.com/alvarolorentedev/opencode-cloud-link-releases)
 
----
-
 ## 🧠 What I care about
 
 - 🤖 AI agents and agentic software development
@@ -52,8 +48,6 @@ Create secure tunnels to share live demos with clients, teammates or the world. 
 - 🧪 Building products and experimenting with ideas
 
 15+ years in software engineering, platform engineering and cybersecurity. Currently working in Data & AI, bringing production engineering experience into the next generation of software.
-
----
 
 ## ⭐ Support my work
 
