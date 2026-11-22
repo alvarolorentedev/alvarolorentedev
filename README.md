@@ -2,9 +2,11 @@
 
 **I build tools for developers working with AI.**
 
-Engineering leader by experience, indie builder by choice. I'm interested in AI agents, developer tooling and making software development more productive.
+Engineering leader by experience, indie builder by choice. I'm interested in AI agents, developer tooling and making software development more productive. I have 15+ years in software engineering, platform engineering and cybersecurity. Currently working in Data & AI, bringing production engineering experience into the next generation of software.
 
 I build things, ship them, break them, improve them and share what I learn.
+
+🌐 [alvarolorente.dev](https://alvarolorente.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/alvarolorentedev/)
 
 ## 🚀 What I'm building
 
@@ -14,8 +16,6 @@ I build things, ship them, break them, improve them and share what I learn.
 
 Control your OpenCode sessions from Android and iOS. Start tasks, follow agent progress, review changes and keep your development moving wherever you are.
 
-[![GitHub stars](https://img.shields.io/github/stars/alvarolorentedev/opencode-mobile?style=social)](https://github.com/alvarolorentedev/opencode-mobile)
-
 [Google Play](https://play.google.com/store/apps/details?id=app.getopencode) · [iOS TestFlight](https://testflight.apple.com/join/ddcE5Wzz) · [Website](https://getopencode.app) · [GitHub](https://github.com/alvarolorentedev/opencode-mobile)
 
 
@@ -24,8 +24,6 @@ Control your OpenCode sessions from Android and iOS. Start tasks, follow agent p
 **Turn AI agents into repeatable engineering workflows.**
 
 Define how your agents plan, build, review and ship software using YAML workflows. Add quality gates, human approvals and parallel execution. Make your development process reproducible.
-
-[![GitHub stars](https://img.shields.io/github/stars/alvarolorentedev/opencode-flowgraph?style=social)](https://github.com/alvarolorentedev/opencode-flowgraph)
 
 [GitHub](https://github.com/alvarolorentedev/opencode-flowgraph) · [npm](https://www.npmjs.com/package/@alvarolorentedev/opencode-flowgraph)
 
@@ -37,20 +35,6 @@ Create secure tunnels to share live demos with clients, teammates or the world. 
 
 [Website](https://opencodecloud.link/) · [GitHub Releases](https://github.com/alvarolorentedev/opencode-cloud-link-releases)
 
-## 🧠 What I care about
-
-- 🤖 AI agents and agentic software development
-- 🛠️ Developer experience and productivity
-- ☁️ Platform engineering and infrastructure
-- 🔐 Security and reliable systems
-- 🧪 Building products and experimenting with ideas
-
-15+ years in software engineering, platform engineering and cybersecurity. Currently working in Data & AI, bringing production engineering experience into the next generation of software.
-
-## ⭐ Support my work
-
-I'm building these projects independently and sharing them with the community.
-
 If you find something useful:
 
 1. ⭐ Star the repository.
@@ -58,7 +42,5 @@ If you find something useful:
 3. 💬 Open an issue, share feedback or contribute.
 
 Every star helps other developers discover these projects. It genuinely makes a difference.
-
-🌐 [alvarolorente.dev](https://alvarolorente.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/alvarolorentedev/)
 
 > Build useful things. Share them. Make developers' lives a little easier.
