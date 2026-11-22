@@ -6,8 +6,6 @@ Engineering leader by experience, indie builder by choice. I'm interested in AI 
 
 I build things, ship them, break them, improve them and share what I learn.
 
-[![Follow me](https://img.shields.io/github/followers/alvarolorentedev?label=Follow%20me&style=social)](https://github.com/alvarolorentedev)
-
 ## 🚀 What I'm building
 
 ### 📱 OpenCode Mobile
